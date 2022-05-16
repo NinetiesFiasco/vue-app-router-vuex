@@ -1,4 +1,6 @@
-# 01-clear-vue-app
+# 02-vue-app-router
+
+# application is built on top of clear-vue-app
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
