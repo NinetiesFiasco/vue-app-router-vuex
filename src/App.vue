@@ -1,14 +1,15 @@
 <template>
-  <MyComponent />
+  <Menu />
+  <RouterView />
 </template>
 
 <script>
-import MyComponent from './components/MyComponent.vue'
+import Menu from './components/Menu.vue'
 
 export default {
   name: 'App',
   components: {
-    MyComponent
+    Menu
   }
 }
 </script>
